@@ -1,1 +1,2 @@
-Good day sir! This is my activity in OBJECT ORIENTED PROGRAMMING.😊
+ALLEN DAVE C. DEALA 🌱
+BEC - BSIT 2B
