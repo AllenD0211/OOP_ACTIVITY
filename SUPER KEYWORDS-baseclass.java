@@ -1,7 +1,6 @@
 public class Vehicle {
      private String type;
-
-    // Constructor for the base class
+     
     public Vehicle(String type) {
         this.type = type;
     }
